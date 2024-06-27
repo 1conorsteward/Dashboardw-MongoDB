@@ -25,8 +25,8 @@ from animal_shelter import AnimalShelter
 # Data Manipulation / Model
 ###########################
 
-username = "aacuser"
-password = "Ilikebikes99"
+username = "Your_username"
+password = "Your_password"
 
 # Connect to database via CRUD Module
 db = AnimalShelter(username=username, password=password)
